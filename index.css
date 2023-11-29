@@ -3,3 +3,14 @@
     margin: 0;
     
 }
+h1{
+    margin-left: 450px;
+    color: rgb(91, 212, 212);
+}
+.number{
+    border: solid rgb(34, 28, 28);
+    background-color: rgb(51, 43, 43);
+}
+ul{
+    list-style: none;
+}
