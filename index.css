@@ -26,7 +26,7 @@ h1{
 }
 ul{
     list-style: none;
-    
+    lighting-color: bisque;
 }
 body{
     background-color: rgb(8, 8, 26);
