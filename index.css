@@ -1,8 +1,10 @@
+
 *{
     padding: 0;
     margin: 0;
     
 }
+
 h1{
     margin-left: 400px;
     color: rgb(91, 212, 212);
@@ -55,3 +57,58 @@ bottom: 30px;
     left: 400px;
     bottom: 170px;
 }
+
+.row{
+    display: flex;
+    padding-top: 60px;
+    
+}
+.img{
+    display: flex;
+    position: relative;
+    left: 1200px;
+}
+.out{
+    display: flex;
+    justify-content: center;
+}
+.skills{
+    display: flex;
+    justify-content: center;
+}
+
+.one{
+    position: relative;
+    left: 450px;
+}
+.two{
+    position: relative;
+    right: 150px;
+}
+.three{
+    position: relative;
+    right: 100px;
+}
+.four{
+    position: relative;
+    right: 60px;
+}
+.five{
+    position: relative;
+    right: 50px;
+}
+.six{
+    position: relative;
+    right: 50px;
+}
+
+.seven{
+    position: relative;
+    right: 30px;
+}
+.eight{
+    position: relative;
+    right: 30px;
+}
+
+
