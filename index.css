@@ -4,6 +4,60 @@
     margin: 0;
     
 }
+
+h1{
+    margin-left: 400px;
+    color: rgb(91, 212, 212);
+    font-size: 75px;
+    margin-top: 40px;
+}
+.number{
+   border: solid black;
+   background-color: rgb(31, 29, 29);
+    margin-right: 970px;
+    border-radius: 30px;
+    font-size: xx-small;
+    position: relative;
+    left: 850px;
+    bottom: 220px;
+    padding-top: 40px;
+    padding-left: 18px;
+    padding-top: 7px;
+    
+   
+}
+ul{
+    list-style: none;
+    lighting-color: bisque;
+}
+body{
+    background-color: rgb(8, 8, 26);
+    color: aliceblue;
+}
+.lorem{
+    margin-top: 40px;
+margin-bottom: 40px;
+font-size: xx-small;
+position: relative;
+left: 400px;
+bottom: 30px;
+}
+#sinan{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: xx-large;
+    position: relative;
+    
+}
+.marg{
+    margin-bottom: 10px;
+}
+#talk{
+    position: relative;
+    left: 400px;
+    bottom: 170px;
+}
+
 .row{
     display: flex;
     padding-top: 60px;
@@ -22,10 +76,7 @@
     display: flex;
     justify-content: center;
 }
-=======
-body{
-    background-color: dimgray;
-}
+
 .one{
     position: relative;
     left: 450px;
@@ -59,4 +110,5 @@ body{
     position: relative;
     right: 30px;
 }
+
 
